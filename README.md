@@ -2,7 +2,7 @@
 
 <!-- Banner animado -->
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=180&section=header&text=Brandon%20David%20Gonz%C3%A1lez&fontSize=48&fontAlign=50&desc=Fullstack%20Developer&descAlign=65&descAlignY=80&animation=twinkling" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=Brandon%20David%20Gonz%C3%A1lez&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer&descAlignY=80&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 ---
 
-## 🦾 About me
+## About me
 
-Full-stack developer with 3 years of experience working on both modern and legacy systems. Strong knowledge of microservice and monolithic architectures. Experience delivering ERP, CRM, and legacy system projects, integrating modern technologies into existing platforms. Specialized in Java (8, 17, 21) and Spring Boot, with a strong focus on agile methodologies, solid testing practices (including the Screenplay pattern in Java 17), delivering effective solutions, and managing Linux-based operating systems to build secure, maintainable, and easy-to-deploy systems.---
+Full-stack developer with 3 years of experience working on both modern and legacy systems. Strong knowledge of microservice and monolithic architectures. Experience delivering ERP, RMS, CRM, and legacy system projects, integrating modern technologies into existing platforms. Specialized in Java (8, 17, 21) and Spring Boot, with a strong focus on agile methodologies, solid testing practices (including the Screenplay pattern in Java 17), delivering effective solutions, and managing Linux-based operating systems to build secure, maintainable, and easy-to-deploy systems.
 
-## 🎨 Technology Stack
+## Technology Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,spring,react,angular,nodejs,php,laravel,go,sqlserver,mysql,postgres,mongodb,redis,maven,gradle,git,linux,bash" />
+	<img src="https://skillicons.dev/icons?i=java,spring,linux,bash,react,angular,nodejs,php,laravel,go,mysql,postgres,mongodb,redis,maven,gradle,git" />
 </p>
 
 ### Languages & platforms
@@ -32,7 +32,7 @@ Full-stack developer with 3 years of experience working on both modern and legac
 - ⚛️ `React`, 🅰️ `Angular` — modern frontends
 - 📦 `Maven`, ⚙️ `Gradle` — builds and pipelines
 
-### 🗃️ Databases & caches
+### Databases & Architecture
 
 # SQL DATABASES
 - 🐬 `MySQL`, 🐘 `PostgreSQL`, 🏢 `SQL Server`
@@ -45,6 +45,8 @@ Full-stack developer with 3 years of experience working on both modern and legac
 
 ### 🏗️ Architecture & best practices
 - Design oriented to microservices and monoliths when applicable
+- MVC and layered architectures
+- Monolithic architectures
 - Integration with legacy systems, resilience patterns, and SOLID principles
 ---
 
