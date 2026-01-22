@@ -18,7 +18,7 @@ Full-stack developer with 3 years of experience working on both modern and legac
 ## 🎨 Technology Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,spring,react,angular,nodejs,php,laravel,go,sqlserver,mysql,postgres,mongodb,redis,maven,gradle,git,linux" />
+	<img src="https://skillicons.dev/icons?i=java,spring,react,angular,nodejs,php,laravel,go,sqlserver,mysql,postgres,mongodb,redis,maven,gradle,git,linux,bash" />
 </p>
 
 ### Languages & platforms
