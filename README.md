@@ -13,32 +13,34 @@
 
 ## 🦾 About me
 
-Fullstack developer with experience in modern and legacy architectures: microservices and monoliths. I have worked on ERP, CRM, and legacy system projects, integrating current technologies on top of existing platforms. Specialized in Java (8, 17, 21) and Spring Boot, with hands-on experience in build tools, backend, and frontend development.
-
-I work with agile methodologies and good testing practices — including tests using the Screenplay pattern in `Java 17` — and I focus on secure, maintainable, and easy-to-deploy solutions.
-
----
+Full-stack developer with 3 years of experience working on both modern and legacy systems. Strong knowledge of microservice and monolithic architectures. Experience delivering ERP, CRM, and legacy system projects, integrating modern technologies into existing platforms. Specialized in Java (8, 17, 21) and Spring Boot, with a strong focus on agile methodologies, solid testing practices (including the Screenplay pattern in Java 17), delivering effective solutions, and managing Linux-based operating systems to build secure, maintainable, and easy-to-deploy systems.---
 
 ## 🎨 Technology Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,spring,react,angular,nodejs,php,laravel,go,mysql,postgres,mongodb,redis,maven,gradle,git,vscode" />
+	<img src="https://skillicons.dev/icons?i=java,spring,react,angular,nodejs,php,laravel,go,sqlserver,mysql,postgres,mongodb,redis,maven,gradle,git,linux" />
 </p>
 
-### 💻 Languages & platforms
+### Languages & platforms
 - ☕ `Java 8`, `Java 17`, `Java 21`
 - 🐹 `Golang`
 - 🧾 `COBOL` (integration and maintenance of legacy systems)
 
-### 🧩 Frameworks & Tools
+### Frameworks & Tools
 - 🌱 `Spring Boot` — APIs and microservices
 - 🧱 `Laravel` / PHP — applications and backends
 - ⚛️ `React`, 🅰️ `Angular` — modern frontends
 - 📦 `Maven`, ⚙️ `Gradle` — builds and pipelines
 
 ### 🗃️ Databases & caches
+
+# SQL DATABASES
 - 🐬 `MySQL`, 🐘 `PostgreSQL`, 🏢 `SQL Server`
-- 🍃 `MongoDB`, 🪵 `Cassandra`
+
+# NO SQL DATABASES
+- 🍃 `MongoDB`, 👁️`Cassandra`
+
+# CACHES
 - ⚡ `Redis` — fast caches and queues
 
 ### 🏗️ Architecture & best practices
