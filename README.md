@@ -44,20 +44,6 @@ Trabajo con metodologías ágiles y buenas prácticas de testing — incluyendo 
 ### 🏗️ Arquitectura y buenas prácticas
 - Diseño orientado a microservicios y monolitos cuando aplica
 - Integración con sistemas legados, patrones de resiliencia y principios SOLID
-
----
-
-## 🌟 Proyectos destacados
-
-<div align="center">
-
-| 💼 Prácticas - Empresa Farmacéutica | 🎓 Proyecto: Servicio Técnico |
-| :-------------------------------: | :-------------------------------: |
-| <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="120"/> | <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120"/> |
-| Sistema web para gestión de productos, usuarios y roles. <br> **Stack:** React, Node.js, PHP (Laravel), MySQL. <br> Enfoque en seguridad y despliegue a producción. | Plataforma para gestión de servicios técnicos. <br> **Stack:** React, Node.js, Laravel, MySQL. <br> Vistas por rol y UI 100% responsive. |
-
-</div>
-
 ---
 
 ## 🧪 Testing & Metodologías
