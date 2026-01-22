@@ -11,50 +11,50 @@
 
 ---
 
-## 🦾 Sobre mí
+## 🦾 About me
 
-Desarrollador Fullstack con experiencia en arquitecturas modernas y heredadas: microservicios y monolitos. He trabajado en proyectos de ERP, CRM y sistemas legados, integrando tecnologías actuales sobre plataformas existentes. Especializado en Java (8, 17, 21) y Spring Boot, con experiencia práctica en herramientas de construcción, backend y frontend.
+Fullstack developer with experience in modern and legacy architectures: microservices and monoliths. I have worked on ERP, CRM, and legacy system projects, integrating current technologies on top of existing platforms. Specialized in Java (8, 17, 21) and Spring Boot, with hands-on experience in build tools, backend, and frontend development.
 
-Trabajo con metodologías ágiles y buenas prácticas de testing — incluyendo pruebas con el patrón Screenplay en `Java 17` — y me enfoco en soluciones seguras, mantenibles y fáciles de desplegar.
+I work with agile methodologies and good testing practices — including tests using the Screenplay pattern in `Java 17` — and I focus on secure, maintainable, and easy-to-deploy solutions.
 
 ---
 
-## 🎨 Stack Tecnológico
+## 🎨 Technology Stack
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=java,spring,react,angular,nodejs,php,laravel,go,mysql,postgres,mongodb,redis,maven,gradle,git,vscode" />
 </p>
 
-### 💻 Lenguajes y plataformas
+### 💻 Languages & platforms
 - ☕ `Java 8`, `Java 17`, `Java 21`
 - 🐹 `Golang`
-- 🧾 `COBOL` (integración y mantenimiento de sistemas legados)
+- 🧾 `COBOL` (integration and maintenance of legacy systems)
 
-### 🧩 Frameworks & Herramientas
-- 🌱 `Spring Boot` — APIs y microservicios
-- 🧱 `Laravel` / PHP — aplicaciones y backends
-- ⚛️ `React`, 🅰️ `Angular` — frontends modernos
-- 📦 `Maven`, ⚙️ `Gradle` — builds y pipelines
+### 🧩 Frameworks & Tools
+- 🌱 `Spring Boot` — APIs and microservices
+- 🧱 `Laravel` / PHP — applications and backends
+- ⚛️ `React`, 🅰️ `Angular` — modern frontends
+- 📦 `Maven`, ⚙️ `Gradle` — builds and pipelines
 
-### 🗃️ Bases de datos y caches
+### 🗃️ Databases & caches
 - 🐬 `MySQL`, 🐘 `PostgreSQL`, 🏢 `SQL Server`
 - 🍃 `MongoDB`, 🪵 `Cassandra`
-- ⚡ `Redis` — caches y colas rápidas
+- ⚡ `Redis` — fast caches and queues
 
-### 🏗️ Arquitectura y buenas prácticas
-- Diseño orientado a microservicios y monolitos cuando aplica
-- Integración con sistemas legados, patrones de resiliencia y principios SOLID
+### 🏗️ Architecture & best practices
+- Design oriented to microservices and monoliths when applicable
+- Integration with legacy systems, resilience patterns, and SOLID principles
 ---
 
-## 🧪 Testing & Metodologías
+## 🧪 Testing & Methodologies
 
-- ✅ Pruebas automatizadas y TDD donde aplica
-- 🎭 Implementación del patrón Screenplay para pruebas de integración y UI
-- ⚙️ CI/CD y pipelines de despliegue automatizados (Maven / Gradle)
+- ✅ Automated tests and TDD where applicable
+- 🎭 Implementation of the Screenplay pattern for integration and UI tests
+- ⚙️ CI/CD and automated deployment pipelines (Maven / Gradle)
 
 ---
 
-## 🚀 Contacto
+## 🚀 Contact
 
 <p align="center">
 	<a href="mailto:brandondavidgonzalez28@gmail.com"><img src="https://img.shields.io/badge/Email-brandondavidgonzalez28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -66,9 +66,7 @@ Trabajo con metodologías ágiles y buenas prácticas de testing — incluyendo 
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=La+tecnolog%C3%ADa+es+mejor+cuando+nos+une.;Siempre+aprendiendo+y+creando!&center=true&width=650&height=45">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Technology+is+better+when+it+brings+us+together.;Always+learning+and+creating!&center=true&width=650&height=45">
 </p>
 
 ---
-
-*¿Quieres que añada enlaces directos a repositorios, capturas de pantalla de proyectos o tus GitHub stats? Dime qué prefieres y lo integro.*
