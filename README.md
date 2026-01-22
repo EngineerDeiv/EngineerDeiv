@@ -27,34 +27,38 @@ Full-stack developer with 3 years of experience working on both modern and legac
 - 🧾 `COBOL` (integration and maintenance of legacy systems)
 
 ### Frameworks & Tools
-- 🌱 `Spring Boot` — APIs and microservices
-- 🧱 `Laravel` / PHP — applications and backends
-- ⚛️ `React`, 🅰️ `Angular` — modern frontends
-- 📦 `Maven`, ⚙️ `Gradle` — builds and pipelines
+- 🌱 `Spring Boot` / ☕ `Java`— APIs and microservices
+- 🧱 `Laravel` / `PHP` — MVP applications
+- ⚛️ `React`, 🅰️ `Angular` — Modern frontends
+- 📦 `Maven`, ⚙️ `Gradle` — Builds and pipelines
+- 🐳 `Docker` — Containerization and deployments
+- ☸️ `Kubernetes` — Container orchestration
+- 📊 `Prometheus` — Monitoring and metrics
+- 🐧 `Linux` — Server administration
 
-### Databases & Architecture
+### Databases
 
-# SQL DATABASES
+# SQL
 - 🐬 `MySQL`, 🐘 `PostgreSQL`, 🏢 `SQL Server`
 
-# NOSQL DATABASES
+# NOSQL
 - 🍃 `MongoDB`, 👁️`Cassandra`
 
 # CACHES
-- ⚡ `Redis` — fast caches and queues
+- ⚡ `Redis`
 
-### 🏗️ Architecture & best practices
+### Architecture & best practices
 - Design oriented to microservices and monoliths when applicable
 - MVC and layered architectures
 - Monolithic architectures
 - Integration with legacy systems, resilience patterns, and SOLID principles
 ---
 
-## 🧪 Testing & Methodologies
+## Testing & Methodologies
 
-- ✅ Automated tests and TDD where applicable
-- 🎭 Implementation of the Screenplay pattern for integration and UI tests
-- ⚙️ CI/CD and automated deployment pipelines (Maven / Gradle)
+- Automated tests and TDD where applicable
+- Implementation of the Screenplay pattern for integration and UI tests
+- CI/CD and automated deployment pipelines (Maven / Gradle)
 
 ---
 
