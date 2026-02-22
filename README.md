@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=DevOps+Engineer+%7C+QA+Automation"/>
 
