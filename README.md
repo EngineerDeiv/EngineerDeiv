@@ -1,13 +1,14 @@
-<!-- README de perfil estético combinado -->
+<!-- README de perfil -->
 
-<!-- Banner animado -->
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&animation=twinkling"/>
-</p>
+<div align="center">
 
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=60&lines=DevOps+Engineer+%7C+QA+Automation"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=DevOps+Engineer+%7C+QA+Automation"/>
+
+</div>
 
 ---
 
@@ -22,56 +23,66 @@ I have over three years of experience supporting QA automation, CI/CD pipelines,
 </p>
 
 ### Frameworks & Tools
-- 🌱 `Spring Boot` / ☕ `Java`— APIs and microservices
-- 🧱 `Laravel` / `PHP` — MVP applications
-- ⚛️ `React`, 🅰️ `Angular` — Modern frontends
-- 📦 `Maven`, ⚙️ `Gradle` — Builds and pipelines
-- 🐳 `Docker` — Containerization and deployments
-- ☸️ `Kubernetes` — Container orchestration
-- 📊 `Prometheus` — Monitoring and metrics
-- 🐧 `Linux` — Server administration
+- Spring Boot / Java — APIs and microservices
+- Laravel / PHP — MVP applications
+- React, Angular — Modern frontends
+- Maven, Gradle — Builds and pipelines
+- Docker — Containerization and deployments
+- Kubernetes — Container orchestration
+- Prometheus — Monitoring and metrics
+- Linux — Server administration
 
 ---
 
 ### Databases
 
-# SQL
-- 🐬 `MySQL`, 🐘 `PostgreSQL`, 🏢 `SQL Server`
+SQL
+- MySQL
+- PostgreSQL
+- SQL Server
 
-# NOSQL
-- 🍃 `MongoDB`, 👁️`Cassandra`
+NoSQL
+- MongoDB
+- Cassandra
 
-# CACHES
-- ⚡ `Redis`
+Caches
+- Redis
 
-### Architecture & best practices
-- Design oriented to microservices and monoliths when applicable
+---
+
+### Architecture & Best Practices
+- Microservices and monolithic architectures when applicable
 - MVC and layered architectures
-- Monolithic architectures
-- Integration with legacy systems, resilience patterns, and SOLID principles
+- Integration with legacy systems
+- Resilience patterns and SOLID principles
+
 ---
 
 ## Testing & Methodologies
 
-- Automated tests and TDD where applicable
-- Implementation of the Screenplay pattern for integration and UI tests
+- Automated testing and TDD where applicable
+- Screenplay pattern for integration and UI testing
 - CI/CD and automated deployment pipelines (Maven / Gradle)
 
 ---
 
-## 🚀 Contact
+## Contact
 
 <p align="center">
-	<a href="mailto:brandondavidgonzalez28@gmail.com"><img src="https://img.shields.io/badge/Email-brandondavidgonzalez28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://www.linkedin.com/in/brandon-gonzalez-659097240/"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Gonz%C3%A1lez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="mailto:brandondavidgonzalez28@gmail.com">
+		<img src="https://img.shields.io/badge/Email-brandondavidgonzalez28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<a href="https://www.linkedin.com/in/brandon-gonzalez-659097240/">
+		<img src="https://img.shields.io/badge/LinkedIn-Brandon%20Gonz%C3%A1lez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
 </p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Technology+is+better+when+it+brings+us+together.;Always+learning+and+creating!&center=true&width=650&height=45">
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com/?lines=Technology+is+better+when+it+brings+us+together.;Always+learning+and+creating!&center=true&width=650&height=45"/>
+
+</div>
