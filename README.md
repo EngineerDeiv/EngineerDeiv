@@ -2,7 +2,7 @@
 
 <!-- Banner animado -->
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&desc=DevOps%20Engineer%20Jr&descAlignY=80&animation=twinkling" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
