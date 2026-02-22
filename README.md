@@ -2,29 +2,24 @@
 
 <!-- Banner animado -->
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&desc=Software%20Architect&descAlignY=80&animation=twinkling" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&desc=DevOps%20Engineer%20Jr&descAlignY=80&animation=twinkling" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=60&lines=Fullstack+Developer+%7C+Java+%7C+Spring+Boot+%7C" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=60&lines=DevOps+Engineer+%7C+QA+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About me
 
-Full-stack developer with 3 years of experience working on both modern and legacy systems. Strong knowledge of microservice and monolithic architectures. Experience delivering ERP, RMS, CRM, and legacy system projects, integrating modern technologies into existing platforms. Specialized in Java (8, 17, 21) and Spring Boot, with a strong focus on agile methodologies, solid testing practices (including the Screenplay pattern in Java 17), delivering effective solutions, and managing Linux-based operating systems to build secure, maintainable, and easy-to-deploy systems.
+I have over three years of experience supporting QA automation, CI/CD pipelines, and mission-critical production environments within DevOps-driven teams. I have hands-on experience contributing to build and deployment processes, automation workflows, and continuous integration practices in agile settings. I bring a strong foundation in Linux systems, database operations, monitoring, and observability, ensuring high availability, stability, and performance. I have supported Java-based applications across legacy and modern architectures, including monolithic, microservices, and event-driven systems, collaborating across the full software lifecycle with development, QA, and infrastructure teams to troubleshoot issues, improve deployment reliability, automate operational tasks, and maintain scalable, resilient platforms.
 
 ## Technology Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,docker,kubernetes,linux,bash,git,aws,go,php,laravel,react,angular,nodejs,mysql,postgres,mongodb,redis" />
+	<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,terraform,linux,bash,git,gradle,maven,python,java,spring,django,php,laravel,mysql,postgres,mongodb,redis" />
 </p>
-
-### Languages & platforms
-- ☕ `Java 8`, `Java 17`, `Java 21`
-- 🐹 `Golang`
-- 🧾 `COBOL` (integration and maintenance of legacy systems)
 
 ### Frameworks & Tools
 - 🌱 `Spring Boot` / ☕ `Java`— APIs and microservices
@@ -35,6 +30,8 @@ Full-stack developer with 3 years of experience working on both modern and legac
 - ☸️ `Kubernetes` — Container orchestration
 - 📊 `Prometheus` — Monitoring and metrics
 - 🐧 `Linux` — Server administration
+
+---
 
 ### Databases
 
