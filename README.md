@@ -5,14 +5,10 @@
 <!-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=FROM%20AMADEUS%20&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 <!-->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00205B,100:0072CE&height=200&section=header&text=Working%20at%20Amadeus&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00205B,100:005EB8&height=180&section=header&text=Cloud%20Support%20Engineer%20at%20Amadeus&fontSize=36&fontColor=ffffff&animation=twinkling"/>
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;+%7C+Junior+Cloud+Support+Engineer;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
 </div>
-
-
 
 ---
 
