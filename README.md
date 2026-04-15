@@ -6,8 +6,10 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Hi!+I'm+Brandon+Gonzalez|Junior+Cloud+Support+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;+%7C+Junior+Cloud+Support+Engineer;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
 </div>
+
+
 
 ---
 
