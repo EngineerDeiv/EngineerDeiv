@@ -2,12 +2,16 @@
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000935,100:000935&height=180&section=header&text=WORKING%20AT%20AMADEUS&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 
 <br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;Junior+Cloud+Support+Engineer" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;+Junior+Cloud+Support+Engineer;Airlines+Airport+Operators+Fintech:Monitoring+24/7+;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Airlines+%7C+Airport+Operators+%7C+Fintech;Monitoring+24%2F7+Production+Systems;L1+%7C+L2+%7C+L3+Support;Let%E2%80%99s+Automate+the+Future!" />
+</p>
 </div>
 
 ---
