@@ -6,12 +6,11 @@
 
 <br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;Junior+Cloud+Support+Engineer" />
+  	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;Junior+Cloud+Support+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Airlines+%7C+Airport+Operators+%7C+Fintech;Monitoring+24%2F7+Production+Systems;L1+%7C+L2+%7C+L3+Support;Linux+%7C+Windows+%7C+SUpport"/>
-</p>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Aviation+%7C+Airport+Systems+%7C+Fintech;24%2F7+Monitoring+and+Incident+Response;L1+%7C+L2+%7C+L3+Support;Linux+%7C+Windows+Server+Administration" /></p>
 </div>
 
 ---
