@@ -27,7 +27,7 @@ I work on Linux-based environments supporting Go and Python applications across 
 ## Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,bash,powershell,golang,python,linux,nginx,jenkins,terraform,prometheus,grafana,git,java" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,kubernetes,docker,bash,powershell,golang,python,nginx,jenkins,terraform,prometheus,grafana,git,java" />
 </p>
 
 
