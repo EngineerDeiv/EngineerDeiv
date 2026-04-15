@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<!-->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=FROM%20AMADEUS%20&fontSize=48&fontColor=ffffff&animation=twinkling"/>
-<!-->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer+at+Amadeus;L1+%7C+L2+%7C+L3+Support;DevOps+%7C+Cloud+%7C+Observability"/>
 
 <br><br>
