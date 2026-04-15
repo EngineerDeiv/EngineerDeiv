@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Brandon%20David%20Gonzalez&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+<!-->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=FROM%20AMADEUS%20&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+<!-->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00205B,100:0072CE&height=200&section=header&text=Working%20at%20Amadeus&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
