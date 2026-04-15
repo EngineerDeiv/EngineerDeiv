@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer+at+Amadeus;L1+%7C+L2+%7C+L3+Support;DevOps+%7C+Cloud+%7C+Observability"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000935,100:000935&height=180&section=header&text=WORKING%20AT%20AMADEUS&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 
 <br><br>
 
