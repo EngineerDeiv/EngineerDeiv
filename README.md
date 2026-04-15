@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=DevOps+Engineer+%7C+Cloud+Support+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EC4B6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Junior+Cloud+Support+Engineer"/>
 
 </div>
 
