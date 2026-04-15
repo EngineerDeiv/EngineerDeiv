@@ -14,13 +14,13 @@
 
 ## About me
 
-- Cloud Support Engineer (Junior) at Amadeus with hands-on experience in L1 and L2 support for cloud-based production environments, and exposure to L3 troubleshooting under supervision.
+Cloud Support Engineer (Junior) at Amadeus, providing L1 and L2 support for mission-critical cloud-based systems in the aviation industry, with exposure to L3 troubleshooting under supervision.
 
-- I work with Linux-based systems, supporting Java applications across distributed architectures (monoliths, microservices, and event-driven systems), focusing on incident resolution, service reliability, and operational stability.
+I work on Linux-based environments supporting Java applications across distributed architectures, including monolithic, microservices, and event-driven systems. My focus is on incident resolution, service reliability, and maintaining operational stability in production.
 
-- My daily work includes monitoring and observability using Prometheus and Grafana, troubleshooting issues in containerized environments (Docker, Kubernetes), analyzing logs and metrics, and supporting CI/CD pipelines.
+My daily responsibilities include monitoring and observability using Prometheus and Grafana, troubleshooting issues in containerized environments (Docker, Kubernetes), and performing log and metrics analysis to identify and resolve incidents. I also support CI/CD pipelines and deployment processes.
 
-- I have practical experience in Azure cloud services, infrastructure troubleshooting, and automation using Bash and Go. I collaborate closely with development, QA, and platform teams to resolve incidents, improve system reliability, and support scalable cloud environments.
+I have hands-on experience with Azure cloud services, infrastructure troubleshooting, and basic automation using Bash and Go. I collaborate with development, QA, and platform teams to investigate issues, improve system reliability, and support scalable, highly available environments.
 
 ---
 
