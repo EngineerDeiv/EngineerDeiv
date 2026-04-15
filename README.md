@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;+Junior+Cloud+Support+Engineer;Airlines+Airport+Operators+Fintech+Monitoring+24/7;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brandon+David+Gonzalez;+Junior+Cloud+Support+Engineer;Airlines+Airport+Operators+Fintech:Monitoring+24/7+;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
 </div>
 
 ---
